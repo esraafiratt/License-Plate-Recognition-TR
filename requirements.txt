@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+ultralytics
+easyocr
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
